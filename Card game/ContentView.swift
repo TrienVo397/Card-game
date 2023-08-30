@@ -37,7 +37,7 @@ struct ContentView: View {
                         
                         Text("Player 1")
                             .font(.headline)
-                            .padding(.bottom,10)
+                            .padding(.bottom,12)
                             
                         Text("0")
                             .font(.largeTitle)
